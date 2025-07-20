@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Full Stack Development / Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Ankita0705](https://github.com/Ankita0705)
+- 👨‍💻 All of my projects are available at https://www.linkedin.com/in/chavda-ankita-453193210?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 - 📫 How to reach me **[your email or LinkedIn link here]**
 
