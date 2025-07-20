@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Full Stack Development / Machine Learning**
 
-- 👨‍💻 All of my projects are available at <a href="https://linkedin.com/in/your-linkedin" target="blank"><img align="center" src="https://www.linkedin.com/in/chavda-ankita-453193210?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" /></a>
+- 👨‍💻 All of my projects are available at   <a href="https://www.linkedin.com/in/chavda-ankita-453193210?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" /></a>
 - 📫 How to reach me **[your email or LinkedIn link here]**
 
 - ⚡ Fun fact **I love solving real-world problems with code!**
@@ -44,6 +44,6 @@
 ### 🔗 Connect with me:
 
 <p align="left">
-  <a href="https://linkedin.com/in/your-linkedin" target="blank"><img align="center" src="https://www.linkedin.com/in/chavda-ankita-453193210?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" /></a>
+  <a href="https://www.linkedin.com/in/chavda-ankita-453193210?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" /></a>
   <a href="mailto:your.email@example.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white" /></a>
 </p>
